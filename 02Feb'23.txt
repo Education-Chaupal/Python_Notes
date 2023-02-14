@@ -1,0 +1,59 @@
+clear()
+copy()
+get()
+keys()
+values()
+pop()
+
+
+
+
+
+tuple is same like list but it is inmuttable
+
+
+for loop is predefined for the number of time
+while is on condtion
+
+
+
+
+1.write a program to calculate the sum of number until the user dosent give input as zero
+a = 5
+result = 7
+a = 6
+result 13
+0
+13
+
+
+z = int(input())
+
+while a!=0:
+  a = z
+  a = a + 2
+  print(a)
+  if z != 0:
+    z = int(input())
+  else:
+    break
+
+
+sum = 0
+num = int(input("Enter a number : "))
+
+while num != 0:
+    sum += num
+    num = int(input("Enter a number : "))
+
+print("The sum of the numbers is:", sum)
+
+2:what is the difference between for and while loop
+	for use karenge tab jab apko condition pata hai
+	otherwise use while loop
+
+
+
+
+
+

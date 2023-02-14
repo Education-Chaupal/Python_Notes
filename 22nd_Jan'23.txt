@@ -1,0 +1,111 @@
+if,elseif,nested if>>>>>>>condition statement
+loop>>>>iteration
+
+
+pehla condition:
+	doosra condition
+
+
+
+
+if condition:
+	statement
+elif condition:
+	statement
+else:
+	statement
+
+
+
+leave_type=['paternity leave','earned leave','sick leave','leave without pay']
+			0			1		2			3
+for i in leave_type:>>>>>>>element in leave type one by one
+  if i ==  'paternity leave':
+    print("no of days applied is:",6)
+  elif i == 'earned leave':
+    print("no of days applied is:",12)
+  elif i == 'sick leave':
+    print("no of days applied is:",1)
+  elif i == 'leave without pay':
+    print("no of days applied is:",0)
+  else:
+    print("no leave applied")
+
+
+
+leave_type=['earned leave','paternity leave','no leave applied','sick leave','leave without pay']
+
+
+
+step 1.take a input as a number
+step 2: the number is in between 1500 se 2700:
+		if number is divisible by 5 and number is divisible by 7:
+			print that number
+
+12 = int
+'12'=string
+
+jab kabhi bhi humlog input lenge type string
+
+print("no of days applied is:",12)
+print("no of days applied is:",6)
+print("no leave applied")
+print("no of days applied is:",1)
+print("no of days applied is:",0)
+
+
+
+
+
+input = paternity leave
+
+
+write a python program to find those number which are divisble by 7 and multiple by 5,between 1500 and 2700(both included)
+
+
+
+x>= 1500 and   x <=2700
+
+
+		and
+
+0 0		0
+
+0 1		0
+
+1 0		0
+
+1 1		1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

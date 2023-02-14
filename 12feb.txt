@@ -1,0 +1,10 @@
+agar tum koi bhi function banana chate ho jisko value tumko,key and value pair me dena pare to
+us jagah pe humlog use karenege,we will use kwargs
+if we want to give multiple inputs we can use args
+
+
+
+Exersice:
+
+create a function
+print(m=10,z=17,h=[1,2,4,5,67,1])

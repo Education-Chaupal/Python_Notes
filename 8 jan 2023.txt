@@ -1,0 +1,55 @@
+variable:::::::
+
+calculator: 2,3>>>>>>number
+addition>>>>>2+3=5
+substraction
+multiplication 
+division
+
+
+
+
+arithmetic operator:work on any numbers/intergers
++ ==addition
+*==multiplication
+/=division
+//=quotient
+%=remainder/modulus
+**=exponential expression
+
+
+Assignment operator
+
+4/2 = 2>>>>integer
+3/2 = 1.5>>>>>float
+1.0000001>>>>>float
+1>>>>>integer
+1.0>>>>>float
+2 2.1   2.2 2.3........ 3
+if we get any decimal value it will be float or elese it will integer
+
+
+
+
+variable>>>>any value which we are assinging to it for operation
+numerical variable
+	1.integer>>>>>>>>2,3,797979,45
+	2.float>>>>>>>>>>2.0,3.65,3.8
+string:
+boolean==true or false
+type()>>>>>checking the type of variable
+
+
+a = "12356"
+
+True,flase
+
+we cant assign a variable without defining or assigning it
+variable as case sensitive
+
+
+
+
+
+
+

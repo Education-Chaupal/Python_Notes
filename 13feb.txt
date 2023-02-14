@@ -1,0 +1,16 @@
+function:def function name(x,y):
+lets create a program 
+ which can take three inputs and deliver the output as the multiplication of those particular elements
+create a function that can take input a string and display its each element
+
+
+why we are getting none value
+
+lambda:humlog ek hi statement define kar sakte hai
+
+
+input = 12
+hamara lambda function restrict lar de
+input = "prem pratik"
+hamara lambda fumction usko pass karke uske sare element ko print kar de
+

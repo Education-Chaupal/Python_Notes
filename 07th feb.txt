@@ -1,0 +1,26 @@
+function:
+a
+b
+a+b
+
+def sum(a,b):
+	c = a+b.
+return c
+a,b======input variable,input argument
+c = output variable
+
+
+create a function 
+takes two number
+ek function banao jo ki dono ka sum de de
+
+function 
+dono ke sum ka * 4 output mile
+
+
+
+take a program jo ki number le even and odd
+
+
+
+

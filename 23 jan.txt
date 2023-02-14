@@ -1,0 +1,48 @@
+list ===== data type
+dictionary
+tuple
+string
+float
+integer
+boolean
+complex
+
+
+
+
+
+
+
+
+list,,,,,,collection of items of different datatype
+
+
+
+
+
+a list is a collection of simillar or different types of data.
+
+
+School
+10>>>>>A[15,16,17,18],B[19,12,15,28],c[12,45,978,183],D[12,3,4,6,7,]
+9>>>>>>A,B,C,D,E
+8>>>>A,B
+[prem,33,50k,icci]>>>>>>record>>>>>>list
+
+
+
+[prem,12000,Male,2,true]
+
+
+
+
+
+0,1,2......11
+printd[0],d[1].d[2]//////////d[11]
+l1.append(i)
+l1.append[]
+d[i]
+list[me index]
+
+
+

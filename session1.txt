@@ -1,0 +1,33 @@
+supervised>>>>learn by examples,
+Classification>>>>predicted value as>>>category;yes or no,
+positve,negative
+
+Regression:hr,predict the salary of a person,predicting in numbers
+
+unsupervised >>>>input variable,clustering
+deep learning
+
+Age,salary,sip>>>input variable
+recommendation>>>target variable,predicted values,labels
+
+
+deep learing:neural network>>>neuron
+to handle more non linear data,to handle bulk amount of data
+
+
+Train data,Test data
+
+
+system prediction:17 lakh,actual value==25 lakh
+
+actual value-system prediction===error>>>>>reduce this erro>>>>5 percents
+
+to reduce the error 
+
+
+natural language processing>>>>RNN:it has a feature of memory
+computer vision>>>cnn>>
+
+
+
+
